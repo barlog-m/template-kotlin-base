@@ -1,7 +1,7 @@
-Template for Java Empty Project
+Template for Kotlin Base Project
 =====================
 
-Template for Java empty project with [Gradle](http://gradle.org/).
+Template for [Kotlin](https://kotlinlang.org) base project with [Gradle](http://gradle.org/).
 
 ### Run
 ```
